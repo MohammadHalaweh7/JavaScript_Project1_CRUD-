@@ -1,0 +1,16 @@
+# JavaScript_Project1_CRUD-
+
+![Screenshot (1432)](https://user-images.githubusercontent.com/78410547/209705943-017310f5-b8de-44af-aeb8-eaffc356ee43.png)
+![Screenshot (1420)](https://user-images.githubusercontent.com/78410547/209705952-ce5238e3-8978-413f-ac33-e50dcf72cf06.png)
+![Screenshot (1421)](https://user-images.githubusercontent.com/78410547/209705958-0d752a39-1c13-4c7b-8ad1-81f48adc5e89.png)
+![Screenshot (1422)](https://user-images.githubusercontent.com/78410547/209705960-755c395e-93e2-4526-bbb3-259edb0ccd25.png)
+![Screenshot (1423)](https://user-images.githubusercontent.com/78410547/209705966-e01d0b9a-4cbe-4f0e-b60c-cdd762eb33ee.png)
+![Screenshot (1424)](https://user-images.githubusercontent.com/78410547/209705969-9dfe664b-e6b5-4362-a3db-8b47d624959d.png)
+![Screenshot (1425)](https://user-images.githubusercontent.com/78410547/209705975-f0a04cef-c3d6-49f9-9e3d-97a6631a633f.png)
+![Screenshot (1426)](https://user-images.githubusercontent.com/78410547/209705976-937e3964-e848-46db-bb6c-e790e38da079.png)
+![Screenshot (1428)](https://user-images.githubusercontent.com/78410547/209705991-8eeab088-5667-411c-8ba0-8686ad842ed7.png)
+![Screenshot (1430)](https://user-images.githubusercontent.com/78410547/209705997-863075a3-5fdb-4fe8-ad1b-62431221f39f.png)
+![Screenshot (1431)](https://user-images.githubusercontent.com/78410547/209706000-912d12b5-c8bd-4861-9bbc-83449946f53d.png)
+![Screenshot (1432)](https://user-images.githubusercontent.com/78410547/209706006-d833724d-9a10-47a8-a12d-77458587318a.png)
+![Screenshot (1433)](https://user-images.githubusercontent.com/78410547/209706010-cae4fc7f-05eb-4261-b9dc-ace88f55e285.png)
+![Screenshot (1434)](https://user-images.githubusercontent.com/78410547/209706012-65e67b65-7397-411b-9b72-2c49be1626d3.png)
